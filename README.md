@@ -7,7 +7,7 @@
 <br>
 <p align="center">
   Hi, I'm Revanth, a passionate Web and Mobile Application Developer! <br> <br>
-  🔬 Currently focusing on building a user friendly and exciting projects <br>
+  🔬 I am currently focused on building user-friendly and exciting projects that enhance the overall user experience.<br>
   🎓 Pursuing a B.E in Electronics and Communication <br>
   💻 Enjoy creating solutions with innovative code and learning more about web technology <br>
   📚 I'm currently working on interating AI in web applications <br>
@@ -25,12 +25,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7B930?style=for-the-badge&logo=machine-learning&logoColor=black" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-004DFF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
