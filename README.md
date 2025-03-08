@@ -6,11 +6,11 @@
 </h1>
 <br>
 <p align="center">
-  Hi, I'm Revanth, a Computer Science student at Sri Eshwar College of Engineering with a passion for Web and Modile Application Development! <br> <br>
-  🔬 Currently focusing on building a user friendly and exiting projects <br>
+  Hi, I'm Revanth, a passionate Web and Mobile Application Developer! <br> <br>
+  🔬 Currently focusing on building a user friendly and exciting projects <br>
   🎓 Pursuing a B.E in Electronics and Communication <br>
-  💻 Enjoy creating solutions with innovative code and learning more about machine learning <br>
-  📚 I'm currently working on projects related to chatbots and real-time audio processing <br>
+  💻 Enjoy creating solutions with innovative code and learning more about web technology <br>
+  📚 I'm currently working on interating AI in web applications <br>
   💬 Feel free to ask me questions on <a href="https://github.com/revanth2805r" title="Issues">GitHub</a> <br>
   📫 How to reach me: <a href="mailto:revanthr@gmail.com">revanthr@gmail.coml</a>
 </p>
@@ -45,39 +45,6 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
-<h2 align="center">📊 GitHub Stats & Learning Graph 📊</h2>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rangesh11&show_icons=true&hide=prs&count_private=true&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangesh11&langs_count=5&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rangesh11&theme=radical" />
-</p>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Rangesh11/Leya_HR_Consultant_intern" title="Leya HR Consultant Intern">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rangesh11&repo=Leya_HR_Consultant_intern&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/Rangesh11/Gemini_chat_bot" title="Gemini Chat Bot">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rangesh11&repo=Gemini_chat_bot&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br><br><br><br><br><br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Rangesh11/DRONE_TECH" title="DRONE TECH">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rangesh11&repo=DRONE_TECH&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/Rangesh11/Connect_intern_final_project" title="Connect Intern Final Project">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rangesh11&repo=Connect_intern_final_project&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
 <br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
-  <a href="https://github.com/Rangesh11?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
