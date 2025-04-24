@@ -11,7 +11,6 @@
   🎓 Pursuing a B.E in Electronics and Communication <br>
   💻 Enjoy creating solutions with innovative code and learning more about web technology <br>
   📚 I'm currently working on interating AI in web applications <br>
-  💬 Feel free to ask me questions on <a href="https://github.com/revanth2805r" title="Issues">GitHub</a> <br>
   📫 How to reach me: <a href="mailto:revanthr@gmail.com">revanthr@gmail.coml</a>
 </p>
 
